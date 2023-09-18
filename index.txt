@@ -1,3 +1,9 @@
-hello guys how are you
-my name is priyansh jain 
-i am here to rule the world and will gonna do that for the long time
+local machine se github pr jaane ke lie commandds
+
+file create kro
+git init kro 
+git add
+git commit
+git remote add origin ".git link"
+git remote -v (to verify this)
+git branch (master hoti by default)
